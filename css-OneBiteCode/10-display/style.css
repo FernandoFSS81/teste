@@ -1,0 +1,18 @@
+
+/*inline: não quebra de linha, largura mínima, apenas aceita margem e preenchimento horizontal*/
+.inline{
+    display: inline;
+    margin-top: 10px;
+}
+
+/*block: quebra de linha, largura máxima*/
+.block{
+    display: block;
+}
+
+/*inline-block: não quebra linha, */
+.inline-block{
+    display: inline-block;
+    margin-top: 10px;
+    padding-top: 10px;
+}
